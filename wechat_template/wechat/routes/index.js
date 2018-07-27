@@ -16,3 +16,5 @@ router.get('/', function(req, res, next) {
 });
 
 module.exports = router;
+
+//https://qyapi.weixin.qq.com/cgi-bin/gettoken?corpid=id&corpsecret=secrect
